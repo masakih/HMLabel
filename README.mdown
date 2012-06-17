@@ -8,5 +8,4 @@ HMLabelControl shows current label.
 HMLabelMenuItem is to select label in menu.
 HMLabelCell uses in NSTableView and so.
 
-![HMLabel screenshot](HMLabelDemo.png)
-
+![HMLabel] (http://farm6.staticflickr.com/5339/7383714536_25bfbe5b5f.jpg)

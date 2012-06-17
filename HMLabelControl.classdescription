@@ -1,0 +1,6 @@
+{
+	ClassName = HMLabelControl;
+	SuperClass = NSControl;
+	Actions = {};
+	Outlets = {};
+}

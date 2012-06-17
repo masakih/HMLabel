@@ -1,0 +1,12 @@
+What Is It?
+===========
+
+HMLabel is an open-source implementation of the Color Label interface found in Finder, etc.
+HMLabel provide four type interface. 
+HMLabelField is to select label. 
+HMLabelControl shows current label.
+HMLabelMenuItem is to select label in menu.
+HMLabelCell uses in NSTableView and so.
+
+![HMLabel screenshot](HMLabelDemo.png)
+
